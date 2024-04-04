@@ -17,5 +17,5 @@ Mock of bank api located on:
 
 For quick usage please register this 3 values on your local environment:
 - APP_ADDRESS=:8080
-- DB_STRING="postgres://avnadmin:AVNS_vyYbIioFIxcp-AVtPhs@pg-3e9f54c9-student-d87c.a.aivencloud.com:23838/defaultdb"
+- DB_STRING="p*ostgres://av*nadmin:AVNS_vyYbIioFIxcp-AVtPhs@pg-3e9f54c9-student-d87c.a.aivencl**oud.com:238*38/defaultdb**" (delete all *)
 - BANK_URL="https://660f0144356b87a55c50a942.mockapi.io/v1/"
